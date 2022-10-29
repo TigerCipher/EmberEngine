@@ -1,0 +1,6 @@
+/obj
+*.user
+*/obj
+/.vs
+/.idea
+/cmake-build-debug
